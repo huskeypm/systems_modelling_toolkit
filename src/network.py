@@ -2,10 +2,10 @@ from interaction import Interaction
 import pandas as pd
 import numpy as np
 from scipy.integrate import odeint
-from geneticalgorithm2 import geneticalgorithm2 as ga
+#PKHfrom geneticalgorithm2 import geneticalgorithm2 as ga
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
-from tqdm import tqdm
+#PKHfrom tqdm import tqdm
 import pdb
 import random
 import json
